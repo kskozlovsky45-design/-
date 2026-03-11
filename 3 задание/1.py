@@ -1,4 +1,4 @@
-from typing import List, Union
+from typing import List
 
 def multiply(items: List[Union[int, float]], factor: float = 2) -> List[Union[int, float]]:
     result = []
