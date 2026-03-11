@@ -1,4 +1,4 @@
-from typing import Union, List, Dict, Any
+from typing import Union, List
 
 def function_name(search: str, status: bool, *args: Any, **kwargs: Any) -> Union[List[int], str]:
     result_list: List[int] = []  # для целых чисел
