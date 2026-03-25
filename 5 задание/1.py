@@ -1,4 +1,3 @@
-# Задание 1. Случайные имена файлов
 import random
 import string
 from pathlib import Path
